@@ -1,7 +1,9 @@
-# EXNO2DS
-NAME: V MYTHILI
-DEPT: CSE
-REG NO: 212223040123
+
+<H3>NAME: V MYTHILI</H3>
+<H3>REG NO: 212223040123</H3>
+<H3>EX NO: 2</H3>
+
+# EDA Analysis using Python
 
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
